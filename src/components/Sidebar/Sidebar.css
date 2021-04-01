@@ -1,0 +1,11 @@
+.contactButton:hover {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    }
+
+.contactButton {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    }    
